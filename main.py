@@ -2,7 +2,7 @@ import pygame
 print(pygame.QUIT)
 print('Setup Start')
 pygame.init()
-window = pygame.display.set_mode(size=(800, 600))
+window = pygame.display.set_mode(size=(900, 800))
 print('Setup End')
 
 while True:
